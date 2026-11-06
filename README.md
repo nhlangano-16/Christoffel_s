@@ -29,4 +29,4 @@ To run this project locally, ensure you have Node.js installed, then follow thes
    Scan the generated QR code using the Expo Go app on your iOS or Android device to view the application.
 
 # YouTube link
-https://youtube.com/shorts/8jgUkgSTgHw?si=QNLW3Cdwapyuif87
+https://youtube.com/shorts/0-9-nHddlpU?si=iJsd1tSv2DsI6g7e
